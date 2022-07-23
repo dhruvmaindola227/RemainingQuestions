@@ -1,4 +1,4 @@
-package RandomTesting;// Java program for the above approach
+package RandomTesting;
 
 public class Threading {
 
